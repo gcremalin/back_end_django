@@ -20,8 +20,8 @@ MANAGERS = ADMINS
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'back_end_django',
-        'USER': 'postgres',
+        'NAME': 'circle_test',
+        'USER': 'ubuntu',
         'PASSWORD': '',
         'HOST': '',  # Set to empty string for localhost.
         'PORT': '',  # Set to empty string for default.
